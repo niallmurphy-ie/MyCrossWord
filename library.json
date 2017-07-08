@@ -1,11 +1,11 @@
 {
   "title": "CrossWord",
-  "description": "Haz tu propio crucigrama introduciendo las palabras y las pistas",
-  "majorVersion": 2,
+  "description": "Automatically generated crosswords for H5P",
+  "majorVersion": 3,
   "minorVersion": 0,
-  "patchVersion": 2,
+  "patchVersion": 0,
   "runnable": 1,
-  "author": "Jose Manuel Riballo Moreno",
+  "author": "Jose Manuel Riballo Moreno, Niall Murphy",
   "license": "cc-by-sa",
   "machineName": "H5P.CrossWord",
   "preloadedCss": [
